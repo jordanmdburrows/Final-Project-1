@@ -1,0 +1,243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"S",
+				"Shrikhand"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"syntax h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 454.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jordanburrows/Documents/Web Design/Flex Box Project/css/style.css",
+		"/Users/jordanburrows/Documents/Web Design/Flex Box Project/index.html",
+		"/Users/jordanburrows/Documents/Web Design/Responsive Design/css/style.css",
+		"/Users/jordanburrows/Documents/Web Design/Responsive Design/index.html",
+		"/Users/jordanburrows/Documents/Web Design/Responsive Images/index.html",
+		"/Users/jordanburrows/Documents/Web Design/Flex Box/css/style.css",
+		"/Users/jordanburrows/Documents/Web Design/Flex Box/index.html",
+		"/Users/jordanburrows/Documents/University/Year 1/Web Design/full-page-parallax-scroll-effect/index.html",
+		"/Users/jordanburrows/Documents/University/Year 1/Web Design/full-page-parallax-scroll-effect/css/style.css",
+		"/Users/jordanburrows/Documents/University/Year 1/Web Design/scrollmagic-experiment/MMc401.1 - Experimentation 1.jpg",
+		"/Users/jordanburrows/Downloads/full-page-parallax-scroll-effect/index.html",
+		"/Users/jordanburrows/Documents/University/Year 1/Web Design/scrollmagic-experiment/css/style.css",
+		"/Users/jordanburrows/Documents/University/Year 1/Web Design/scrollmagic-experiment/index.html",
+		"/Users/jordanburrows/Downloads/scrollmagic-experiment/index.html",
+		"/Users/jordanburrows/Downloads/scrollmagic-experiment/css/style.css",
+		"/Users/jordanburrows/Downloads/scrolling-animation-gear/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true
+}
